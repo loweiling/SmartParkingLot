@@ -90,14 +90,11 @@ APP interface
 ----
 
 ## Experiment 12.18
-<div style="position:relative" align="left">
-<p align="left" style="position:relative;left:0px;top:-10px;font-size:20px">parking test</p>
-</div>
-<div style="position:relative">
+
 <iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=81&end=154" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=183&end=253" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=287&end=356" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+
 
 ----
 
