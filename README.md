@@ -1,5 +1,3 @@
-# SmartParkingLot
-
 
 <style>
 div.container {
@@ -77,6 +75,8 @@ APP interface
 ---
 
 ## Experiment 12.18
+
+
 <div style="position:relative" align="left">
 <p align="left" style="position:relative;left:0px;top:0px;font-size:20px">12.18 experiment</p>
 <p align="left"  style="position:relative;left:0px;top:-20px;font-size:20px">Location: NCTU south parking lot </p>
@@ -91,58 +91,46 @@ APP interface
 
 ## Experiment 12.18
 
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=81&end=154" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=183&end=253" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=287&end=356" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=81&end=154
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=183&end=253
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=287&end=356
 
 
 ----
 
 ## Experiment 12.18
-<div style="position:relative" align="left">
-<p align="left" style="position:relative;left:0px;top:-10px;font-size:20px">DriveThrough test</p>
-</div>
-<div style="position:relative">
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=390&end=398" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=430&end=438" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=472&end=482" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=390&end=398
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=430&end=438
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=472&end=482
+
 
 ----
 
 ## Experiment 12.18
-<div style="position:relative" align="left">
-<p align="left" style="position:relative;left:0px;top:-10px;font-size:20px">MoveForward and Backward test</p>
-</div>
-<div style="position:relative">
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=513&end=546" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=570&end=607" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/9NfIwEO8yaI?&start=624&end=660" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=513&end=546
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=570&end=607
+https://www.youtube.com/embed/9NfIwEO8yaI?&start=624&end=660
 
 ----
 
 ## Experiment 12.18
-<div style="position:relative" align="left">
-<p align="left" style="position:relative;left:0px;top:-10px;font-size:20px">Passby test</p>
-</div>
-<div style="position:relative">
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/AZi7wAh0SR8?&start=33&end=45" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/AZi7wAh0SR8?&start=56&end=68" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/AZi7wAh0SR8?&start=90&end=100" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+
+https://www.youtube.com/embed/AZi7wAh0SR8?&start=33&end=45
+https://www.youtube.com/embed/AZi7wAh0SR8?&start=56&end=68
+https://www.youtube.com/embed/AZi7wAh0SR8?&start=90&end=100
+
+
 
 ----
 
 ## Experiment 12.18
-<div style="position:relative" align="left">
-<p align="left" style="position:relative;left:0px;top:-10px;font-size:20px">Parking nearby test</p>
-</div>
-<div style="position:relative">
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/AZi7wAh0SR8?&start=122&end=134" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/AZi7wAh0SR8?&start=214&end=226" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/AZi7wAh0SR8?&start=90&end=100" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+
+https://www.youtube.com/embed/AZi7wAh0SR8?&start=122&end=134
+https://www.youtube.com/embed/AZi7wAh0SR8?&start=214&end=226
+https://www.youtube.com/embed/AZi7wAh0SR8?&start=90&end=100
+
 
 ---
 
@@ -161,26 +149,19 @@ APP interface
 ----
 
 ## Experiment 12.19
-<div style="position:relative" align="left">
-<p align="left" style="position:relative;left:0px;top:-10px;font-size:20px">Parking test</p>
-</div>
-<div style="position:relative">
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/bmL0oNjajoo?&start=43&end=83" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/bmL0oNjajoo?&start=160&end=293" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/bmL0oNjajoo?&start=324&end=380" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+https://www.youtube.com/embed/bmL0oNjajoo?&start=43&end=83
+https://www.youtube.com/embed/bmL0oNjajoo?&start=160&end=293
+https://www.youtube.com/embed/bmL0oNjajoo?&start=324&end=380
+
+
 
 ----
 
 ## Experiment 12.19
-<div style="position:relative" align="left">
-<p align="left" style="position:relative;left:0px;top:-10px;font-size:20px">DriveThrough test</p>
-</div>
-<div style="position:relative">
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/bmL0oNjajoo?&start=444&end=449" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:-250px;top:-20px" width="420px" height="300px" src="https://www.youtube.com/embed/bmL0oNjajoo?&start=420&end=434" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe style="position:relative;left:400px;top:-330px" width="420px" height="300px" src="https://www.youtube.com/embed/bmL0oNjajoo?&start=454&end=585" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
+
+https://www.youtube.com/embed/bmL0oNjajoo?&start=444&end=449
+https://www.youtube.com/embed/bmL0oNjajoo?&start=420&end=434
+https://www.youtube.com/embed/bmL0oNjajoo?&start=454&end=585
 
 ---
 
